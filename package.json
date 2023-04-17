@@ -1,0 +1,10 @@
+{
+  "name": "sql-cms",
+  "version": "0.1.0",
+  "description": "Node.js sql cms",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
